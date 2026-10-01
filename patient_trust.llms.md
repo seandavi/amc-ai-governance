@@ -2,7 +2,7 @@
 
 Published
 
-August 17, 2026
+October 1, 2026
 
 There is a tempting shorthand for the case for transparency in clinical AI: institutions disclose how AI is used in patient care because they are required to, or because it reduces liability exposure. Both motivations are real. Neither is sufficient to explain why transparency actually matters for the safety and effectiveness of care.
 
